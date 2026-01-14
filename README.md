@@ -31,8 +31,3 @@ Build in any city during simulation:
 **Trade:** Balances resources across cities via automated routes<br/>
 **Disasters:** Dynamically reroutes resources during events<br/>
 **Sustainability:** Scores kingdom on environmental/ethical metrics
-
-
-Trade: Balances resources across cities via automated routes
-Disasters: Dynamically reroutes resources during events
-Sustainability: Scores kingdom on environmental/ethical metrics
